@@ -1,0 +1,8 @@
+"use strict";
+var Command = (function () {
+    function Command(signature) {
+        this.signautare = signature;
+    }
+    return Command;
+}());
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29tbWFuZC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbImNvbW1hbmQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBO0lBSUMsaUJBQVksU0FBaUI7UUFDNUIsSUFBSSxDQUFDLFVBQVUsR0FBRyxTQUFTLENBQUM7SUFDN0IsQ0FBQztJQUVGLGNBQUM7QUFBRCxDQUFDLEFBUkQsSUFRQyIsInNvdXJjZXNDb250ZW50IjpbIlxuY2xhc3MgQ29tbWFuZCB7XG5cdHByb3RlY3RlZCBzaWduYXV0YXJlOiBzdHJpbmc7XG5cdHByb3RlY3RlZCBvcHRpb25zOiBhbnk7XG5cblx0Y29uc3RydWN0b3Ioc2lnbmF0dXJlOiBzdHJpbmcpe1xuXHRcdHRoaXMuc2lnbmF1dGFyZSA9IHNpZ25hdHVyZTtcblx0fVxuXHRcbn0iXX0=
